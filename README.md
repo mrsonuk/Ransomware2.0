@@ -49,7 +49,7 @@ Accuracy > 92% in each category of malware
 
 (1) Install anaconda from Offical website: https://docs.anaconda.com/anaconda/install/windows/
 
-(2) Construct virtual environment by anaconda: https://medium.com/python4u/%E7%94%A8conda%E5%BB%BA%E7%AB%8B%E5%8F%8A%E7%AE%A1%E7%90%86python%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-b61fd2a76566 [python version >= 3]
+(2) Construct virtual environment by anaconda:
 
 (3) Check tools version from environment.txt in directory source_code. Most tools should have been installed when virtual environment construct success
 !!! We recommend to install the same version of tools to avoid unexcepted conflicts
